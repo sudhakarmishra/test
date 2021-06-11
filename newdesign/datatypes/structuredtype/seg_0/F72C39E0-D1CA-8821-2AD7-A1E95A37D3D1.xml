@@ -2,9 +2,34 @@
 <StructuredType class="oracle.dbtools.crest.model.design.datatypes.StructuredType" name="XMLTYPE" directorySegmentName="seg_0" id="F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1">
 <createdBy>smmishra</createdBy>
 <createdTime>2021-06-11 08:24:52 UTC</createdTime>
+<comment><![CDATA[from dm1]]></comment>
 <ownerDesignName>newdesign</ownerDesignName>
 <visible>false</visible>
 <predefined>true</predefined>
 <final>false</final>
 <instantiable>true</instantiable>
+<attributes itemClass="oracle.dbtools.crest.model.design.datatypes.TypeElement">
+<Attribute name="Attribute_1" id="FF21942F-9C09-28F3-511C-B33284B92C0F">
+<createdBy>smmishra</createdBy>
+<createdTime>2021-06-11 09:07:19 UTC</createdTime>
+<ownerDesignName>newdesign</ownerDesignName>
+<mandatory>false</mandatory>
+<precision>0</precision>
+<reference>false</reference>
+<scale>0</scale>
+<type>DOM3000004</type>
+</Attribute>
+<Attribute name="Attribute_2" id="5DA31545-F625-9E57-0863-7D0BA9A6FB89">
+<createdBy>smmishra</createdBy>
+<createdTime>2021-06-11 09:07:38 UTC</createdTime>
+<ownerDesignName>newdesign</ownerDesignName>
+<mandatory>false</mandatory>
+<precision>0</precision>
+<reference>false</reference>
+<referencerelation>6F4E2C04-CE1C-3D80-4731-A67DF2779425</referencerelation>
+<scale>0</scale>
+<type>47E390DE-0671-C4B1-8428-0F45CBEE18F8</type>
+<referenceID>6F4E2C04-CE1C-3D80-4731-A67DF2779425</referenceID>
+</Attribute>
+</attributes>
 </StructuredType>
