@@ -15,5 +15,7 @@
 <maxVolumes>9999999</maxVolumes>
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
-<shortName>newShortName</shortName>
+<shortName>newShortName1</shortName>
+<synonym>newShortName1</synonym>
+<synonymToDisplay>newShortName1</synonymToDisplay>
 </Entity>
