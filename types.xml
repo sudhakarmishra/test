@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--"comment1 11 jun"-->
 <!--"comment1 11 jun 2"-->
+<!--"comment1 11 jun 3"-->
 <logtypes>
 	<logicaltype name="unknown" objectid="LOGDT017" default="true">
 		<mapping rdbms="Oracle Database 21c">UNKNOWN</mapping>
