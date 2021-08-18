@@ -2,6 +2,8 @@
 <Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="2C3CF75E-7BDC-05CA-1623-58B67D47B23F" name="Entity_1">
 <createdBy>smmishra</createdBy>
 <createdTime>2021-08-18 12:22:09 UTC</createdTime>
+<comment><![CDATA[New Entity by Sudhakar from SDDM 01. From GIT 01
+Next By Sudhakar from SDDM 02. From GIT 02]]></comment>
 <ownerDesignName>newDesign</ownerDesignName>
 <engineerTo>
 <item key="11A2378E-47B3-5F4C-3716-D53C3A331C58" value="true"/>
